@@ -4,6 +4,6 @@
     "DBPassword" : "Qburst123",
     "DBRootPassword" : "Qburst123",
     "DBUser" : "ProdDBuser",    
-    "KeyName" : "ProdEC2KeyName"
+    "KeyName" : "mytestpipeline"
   }
 }
