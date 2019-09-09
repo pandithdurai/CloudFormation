@@ -1,8 +1,8 @@
 {
   "Parameters" : {
     "DBName" : "TestWordPressDB",
-    "DBPassword" : "TestDBRootPassword",
-    "DBRootPassword" : "TestDBRootPassword",
+    "DBPassword" : "Qburst123",
+    "DBRootPassword" : "Qburst123",
     "DBUser" : "TestDBuser",    
     "KeyName" : "TestEC2KeyName"
   }

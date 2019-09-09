@@ -1,8 +1,8 @@
 {
   "Parameters" : {
     "DBName" : "ProdWordPressDB",
-    "DBPassword" : "ProdDBPassword",
-    "DBRootPassword" : "ProdDBRootPassword",
+    "DBPassword" : "Qburst123",
+    "DBRootPassword" : "Qburst123",
     "DBUser" : "ProdDBuser",    
     "KeyName" : "ProdEC2KeyName"
   }
