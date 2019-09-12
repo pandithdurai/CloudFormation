@@ -4,6 +4,6 @@
     "DBPassword" : "Qburst123",
     "DBRootPassword" : "Qburst123",
     "DBUser" : "TestDBuser",    
-    "KeyName" : "mytestpipeline"
+    "KeyName" : "cloudformation-cd"
   }
 }
